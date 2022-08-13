@@ -1,5 +1,5 @@
 # UNO-wiki
-记录UNO自定义版本规则。
+记录[UNO](https://en.wikipedia.org/wiki/Uno_(card_game))自定义版本规则。
 
 ## 胜负判定、奖励惩罚
 先出完牌者获胜，其余玩家根据手中所剩牌分数排名，分数最高者为输家。
